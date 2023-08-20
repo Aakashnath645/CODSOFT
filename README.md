@@ -1,2 +1,2 @@
-# CODSOFT
-Contains projects regarding Internship in CODSOFT
+# CODSOFT INTERNSHIP PROJECTS
+Contains all the project given by CODSOFT
